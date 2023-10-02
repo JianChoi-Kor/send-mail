@@ -1,9 +1,10 @@
 spring:
   mail:
-    host:
-    port:
+    host: in-v3.mailjet.com
+    port: 587
     username:
     password:
+    from-address:
     properties:
       mail:
         smtp:
